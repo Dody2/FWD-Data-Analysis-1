@@ -6,4 +6,4 @@ Reference:
 3- viewed some of the similar projects on github to get inspired and gain other perspective on the project  
 4- pandas and numpy docs  
 _________________________________________
--Check Requirements In The .txt File Above.
+- Check Requirements In The .txt File Above.
